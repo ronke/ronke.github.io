@@ -1,5 +1,5 @@
 site_name: flowCentral Documentation
-site_url: https://tcd-documentation.com/
+site_url: https://ronke.github.io/
 nav:
     - Quickstart: 'index.md'
     - Platform Overview: 'platformOverview.md'
