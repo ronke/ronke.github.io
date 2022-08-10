@@ -1,0 +1,2 @@
+# Entities
+## Entity Base Type
