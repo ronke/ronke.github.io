@@ -9,4 +9,5 @@ nav:
     - Applet Types: 'appletTypes.md'
     - Applet Filters: 'appletFilters.md'
     - Applet Properties: 'appletProperties.md'
+    - Applet: 'app.md'
 theme: readthedocs
